@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import base.BaseTest;
 import utils.DriverFactory;
-
+//Git practice - first change
 public class HomeTest extends BaseTest {
 
     @Test
