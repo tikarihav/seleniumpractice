@@ -19,4 +19,7 @@ public class HomeTest extends BaseTest {
 
         Assert.assertTrue(title.contains("Automation"));
     }
+    
+ // Feature branch - adding search test
+
 }
