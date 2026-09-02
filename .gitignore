@@ -1,0 +1,16 @@
+# Maven build output
+/target/
+
+# Test reports and screenshots
+/reports/
+/screenshots/
+/test-output/
+
+# Java compiled files
+*.class
+
+# Eclipse
+.classpath
+.project
+.factorypath
+.settings/
